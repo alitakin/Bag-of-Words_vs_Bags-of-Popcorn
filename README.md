@@ -1,1 +1,1 @@
-# -Bag-of-Words_vs_Bags-of-Popcorn
+# Bag-of-Words_vs_Bags-of-Popcorn
